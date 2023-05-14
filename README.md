@@ -61,6 +61,9 @@ python evaluate.py
 ## Result:
 
 ![image](https://github.com/PurnaChandar26/Pneumonia-Classification-on-TPU/assets/97793147/28d5ac0d-a97d-4e8f-b77d-a45817c93fa9)
+
+![image](https://github.com/PurnaChandar26/Pneumonia-Classification-on-TPU/assets/97793147/7858d0fc-080e-43f5-bcb8-059e77456726)
+
 ## Conclusion
 
 We hope that this repository will be useful for those interested in building and training deep learning models for medical image classification. If you have any questions or feedback, please feel free to open an issue or submit a pull request.
