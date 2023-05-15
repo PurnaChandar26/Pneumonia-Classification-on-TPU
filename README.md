@@ -66,6 +66,6 @@ python evaluate.py
 
 ## Conclusion
 
-We hope that this repository will be useful for those interested in building and training deep learning models for medical image classification. If you have any questions or feedback, please feel free to open an issue or submit a pull request.
+We hope that this repository will be useful for those interested in building and training deep learning models for medical image classification. If you have any questions or feedback, please feel free to open an issue or submit a pull request..
 
 
